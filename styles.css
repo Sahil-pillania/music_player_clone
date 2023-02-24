@@ -13,8 +13,9 @@ nav {
 background:transparent !important;
 color:white;
 }
-.navbar-toggler-icon{
-color:white;}
+.navbar-toggler{
+background:white;
+}
 
 .logo{
 width:50px;
