@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+#body {
+background: #11044d;
+width:100%;
+min-height:100vh;
+color:white;
+}
+nav {
+background:transparent !important;
+color:white;
+}
+.navbar-toggler-icon{
+color:white;}
+
+.logo{
+width:50px;
+border-radius:50%;
+}
+
+.searchBox{
+    /* background:#17036d; */
+    border:none;
+    border-radius: 15px;
+    position:relative;
+
+}
+.inputBox{
+     border:none;
+    border-radius: 15px;
+    padding-left: 30px;
+    background:#17036d;
+    padding:5px 30px;
+}
+.button_search{
+position:absolute;
+    left: 10px;
+    top: 5px;
+    color:white;
+
+}
+.button_search i {
+    left:2;
+top:2;
+}
